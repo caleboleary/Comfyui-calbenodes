@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-calbenodes"
+description = "Nodes:CharacterManagerNode, FilmGrain, FlipFlopperSameArch"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/caleboleary/Comfyui-calbenodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-calbenodes"
+Icon = ""
